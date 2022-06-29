@@ -1,0 +1,20 @@
+{
+    "image" : "https://ipfs.io/ipfs/QmdCSFFJufCfRKu66fdS7D9PAEMn6NFzFfW6WrhsVnMSGn",
+    "description": "a digital form of identification representing the Stupid Degens DeSoc",
+    "attributes": [
+
+        {
+            "trait_type": "Stupid Degen",
+            "value": 9,
+            "max_value": 9
+        },
+        {
+            "trait_type": "OG",
+            "value": "Early supporter of the Stupid Degen Desoc"
+        },
+        {
+            "trait_type": "Community Contribution Level",
+            "value": "Early"
+        }
+    ]
+}
